@@ -30,10 +30,14 @@ Stwórz 2 obiekty produktów prod1 i prod2, gdzie każdy z nich będzie miał w�
 "Produkty ważą razem: "
 Gdzie pod zmienne podstaw odpowiednie dane.
 
+---
+
 - Ćwiczenie 3
 Mając tablicę z nazwami kontynentów, posortuj ją alfabetycznie, a następnie odwróć kolejność jej elementów.
 
  `const kontynenty = [’Europa’, ’Azja’, ’Antarktyda’, ’Afryka’, ’Australia i Oceania’, ’Ameryka Północna’, ’Ameryka Południowa’];`
+ 
+ ---
 
 - Ćwiczenie 4
   
