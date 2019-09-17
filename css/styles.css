@@ -12,3 +12,9 @@
   transform: translateY(40vh);
   font-size: 2em;
 }
+
+.logo {
+  position: absolute;
+  top: 120%;
+  transform: translate(-50%, -50%);
+}
