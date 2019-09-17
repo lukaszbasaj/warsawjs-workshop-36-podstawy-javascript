@@ -1,7 +1,7 @@
 **WarsawJS Workshop #36 - wprowadzenie do JavaScript**
 > Obiekty i tablice
 
-Przełącz się na branch 03-objects-and-arrays
+Przełącz się na branch `03-objects-and-arrays`
 
 - Ćwiczenie 1
   
