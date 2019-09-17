@@ -3,7 +3,9 @@
 
 - Ćwiczenie 1:
 
-Przełącz się na branch 01-introduction. w pliku index.html napisz pierwszy skrypt logo:
+Przełącz się na branch `01-introduction`. 
+
+W pliku index.html napisz pierwszy skrypt logo:
 
 alert("Wow! podoba mi się programowanie w JS 😀");
 lub
