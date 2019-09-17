@@ -15,7 +15,7 @@ confirm("Wow! Ale łatwe jest programowanie w JS 😀");
 ---
 - Ćwiczenie 2
 
-W pliku index.html zainicjuj skrypt logo z zewnętrzenego pliku /js/main.js, do którego dopisz treść skryptu z ćwiczenia 1.
+W pliku index.html zainicjuj skrypt JavaScript z zewnętrzenego pliku /js/main.js, do którego dopisz treść skryptu z ćwiczenia 1.
 
 ---
 
