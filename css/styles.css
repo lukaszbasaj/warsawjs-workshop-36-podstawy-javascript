@@ -1,0 +1,31 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header, .description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+  transform: translateY(10vh);
+  font-size: 2em;
+}
+
+.subject {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(8vh);
+}
+
+.types {
+  display: block;
+  top: 50%;
+  transform: translateY(20vh);
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
