@@ -1,9 +1,8 @@
 **WarsawJS Workshop #36 - wprowadzenie do JavaScript**
 > Typy, zmienne, operatory
+Przełącz się na branch `02-types-variablles-operators`
 
 - Ćwiczenie 1:
-
-Przełącz się na branch `02-types-variablles-operators`
 
 Wypisz wszystkie poznane typy proste i referencyjne. 
 
