@@ -34,3 +34,11 @@ Gdzie pod zmienne podstaw odpowiednie dane.
 Mając tablicę z nazwami kontynentów, posortuj ją alfabetycznie, a następnie odwróć kolejność jej elementów.
 
  `const kontynenty = [’Europa’, ’Azja’, ’Antarktyda’, ’Afryka’, ’Australia i Oceania’, ’Ameryka Północna’, ’Ameryka Południowa’];`
+
+- Ćwiczenie 4
+  
+Utwórz tablicę `style` z elementami „Jazz” i „Blues”. 
+Dołącz „Rock-n-Roll” na końcu. 
+Zamień wartość w środku na „Classics”.  
+Zdejmij pierwszą wartość tablicy i pokaż ją. 
+Dodaj Rap i Reggae do tablicy.
