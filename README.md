@@ -1,7 +1,7 @@
 **WarsawJS Workshop #36 - wprowadzenie do JavaScript**
 > Instrukcje  warunkowe i pętle
 
-Przełącz się na branch 04-conditional-statements-and-loops
+Przełącz się na branch `04-conditional-statements-and-loops`
 
 ---
 
