@@ -7,7 +7,7 @@ Przełącz się na branch 05-functions
 
 - Ćwiczenie 1
 
-Napisz funkcję `min(a, b)`, która liczbę mającą mniejszą wartość.
+Napisz funkcję `min(a, b)`, która zwróci liczbę mającą mniejszą wartość.
 
 Wywołanie funkcji powinno mieć postać np. `min(2, 5) == 2`.
 
