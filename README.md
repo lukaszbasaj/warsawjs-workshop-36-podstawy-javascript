@@ -24,7 +24,7 @@ Przepisz Ćwiczenie1 używając operatora warunkowego `?`.
 
 - Ćwiczenie 3
 
-Stwórz trzy zmienne: a = 4, b = 5, c = 6. Za pomocą instrukcji warunkowych sprawdź, która zmienna jest największa (pomiń wariant kiedy zmienne mogły by być równe).
+Stwórz trzy zmienne: a = 4, b = 5, c = 6. Za pomocą instrukcji warunkowych sprawdź, która zmienna jest największa.
 
 ---
 
