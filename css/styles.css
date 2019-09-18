@@ -1,0 +1,114 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.header,
+.description {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Open Sans Condensed", sans-serif;
+  transform: translateY(10vh);
+  font-size: 2em;
+}
+
+.subject {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transform: translateY(8vh);
+}
+
+.sandbox {
+  display: block;
+  top: 50%;
+  transform: translateY(20vh);
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 2em;
+  text-align: center;
+}
+
+.chessboard {
+  border: 2px solid;
+  margin: 0 auto;
+  width: 440px;
+  height: 440px;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  box-shadow: 10px 20px 20px 4px rgb(131, 131, 131)
+}
+
+.chessboard div:nth-child(-2n + 8),
+div:nth-child(8) ~ div:nth-child(-2n + 15),
+div:nth-child(16) ~ div:nth-child(-2n+24),
+div:nth-child(24) ~ div:nth-child(-2n+31),
+div:nth-child(32) ~ div:nth-child(-2n+40),
+div:nth-child(40) ~ div:nth-child(-2n+47),
+div:nth-child(48) ~ div:nth-child(-2n+56),
+div:nth-child(56) ~ div:nth-child(-2n+63)
+{
+  background-color: rgb(126, 126, 126);
+}
+
+
+.countdown {
+  display: flex;
+  position: relative;
+  color: #F6F4F3;
+  text-align: center;
+  text-transform: uppercase;
+  font-family: "Open Sans Condensed", sans-serif;
+  font-size: 0.9em;
+  letter-spacing: 1px;
+  margin-top: 5%;
+  top: 15vh;
+  align-content: center;
+  justify-content: center; 
+  
+
+}
+
+.countdown__header {
+  display: flex;
+  position: absolute;
+  top: -2vh;
+  color: rgb(59, 59, 59);
+
+}
+ 
+.days, .hours, .minutes, .seconds, .left {
+  display: inline-block;
+  margin: 2px;
+  padding: 20px;
+  width: 120px;
+  border-radius: 10px;
+  box-shadow: 0px 12px 20px 0.1px rgb(131, 131, 131)
+}
+ 
+.days {
+  background: #D87200;
+}
+ 
+.hours {
+  background:  #FF3E41;
+}
+ 
+.minutes {
+  background: #FFB20C;
+}
+ 
+.seconds {
+  background:  #2186FF;
+}
+ 
+.left {
+	background: #E10A0A;
+}
+.c-number {
+  font-family: "Open Sans Condensed", sans-serif;
+  color: #333;
+  font-size: 5em;
+}
