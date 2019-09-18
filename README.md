@@ -51,3 +51,14 @@ Napisz funkcję sprawdzającą jakiego typu jest parametr do niej przekazany
 
 ---
 
+- Ćwiczenie 8
+
+Stwórz dwie zmienne, które zawierają zmienne losowe:
+ - sprawdź która jest większa
+ - zaokrąlij każdą z nich w górę i w dół
+
+--- 
+
+Ćwiczenie 9
+
+Stwórz funkcję wypisującą aktualną datę i godzinę.
