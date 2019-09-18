@@ -1,6 +1,7 @@
 import Logo from '../../public/logo.png';
+import { getData } from './getData';
 
-const container = createDOM();
+export const container = createDOM();
 
 function createDOM() {
   const app = document.getElementById('root');
@@ -18,14 +19,14 @@ function createDOM() {
 function createButton() {
   let button = document.createElement("input");
   button.type = "button";
-  button.value = "Sound";
+  button.value = "sound";
   button.onclick = "click";
   button.className = "btn";
   container.appendChild(button);
 }
 
 function switchSound() {
-  document.querySelector('.btn').addEventListener("click", function onoff() {
+  document.querySelector('.btn').addEventListener("click", function toggleState() {
     let currentValue = document.querySelector('.btn').value;
     if (currentValue == "sound on") {
       document.querySelector('.btn').value = "sound off";
@@ -37,41 +38,6 @@ function switchSound() {
     }
   });
 };
-
-
-function getData() {
-    const fetchParams = {
-        method: "GET",
-        mode: "cors",
-        cache: "default"
-    };
-    const url = "https://swapi.co/api/films/";
-    fetch(url, fetchParams)
-        .then(res => {
-            if (!res.ok) {
-                throw new Error(res.statusText);
-            }
-            return res.json();
-        })
-        .then(data => {
-            const movies = data.results;
-            movies.forEach(function (movie) {
-                const card = document.createElement('div');
-                card.setAttribute('class', 'card');
-                const header = document.createElement('h2');
-                header.setAttribute('class', 'card__header');
-                header.textContent = movie.title;
-                const description = document.createElement('p');
-                description.setAttribute('class', 'card__header-description');
-                description.textContent = `${movie.opening_crawl}`;
-                container.appendChild(card);
-                card.appendChild(header);
-                card.appendChild(description);
-            });
-        });
-}
-
-
 
 
 createButton();
