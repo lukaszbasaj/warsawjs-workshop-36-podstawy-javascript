@@ -5,7 +5,6 @@ Przełącz się na branch 05-functions
 
 ---
 
-<<<<<<< HEAD
 - Ćwiczenie 1
 
 Napisz funkcję `min(a, b)`, która liczbę mającą mniejszą wartość.
@@ -52,5 +51,3 @@ Napisz funkcję sprawdzającą jakiego typu jest parametr do niej przekazany
 
 ---
 
-=======
->>>>>>> e52ff52b3672eb512f73f2562e37322ddaa02d8c
