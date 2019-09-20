@@ -12,7 +12,7 @@ Agenda:
 
 - types
 
-- values
+- variables
 
 - operators
 
