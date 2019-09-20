@@ -12,6 +12,7 @@ export function createMainContainer() {
     const container = document.createElement('section');
     container.classList.add('main');
     return container;
+ 
 }
 
 export function createButton() {
