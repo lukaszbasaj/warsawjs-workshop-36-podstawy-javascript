@@ -1,7 +1,5 @@
-$sw-font-family: "Star Jedi", arial;
-$description-font-family: 'Open Sans Condensed', sans-serif;
-$font-color: rgb(229, 255, 0);
-$default-color: #666;
+@import "_variables";
+@import "_normalize";
 
 @mixin card-hover {
   box-shadow: 2px 8px 45px rgba(0, 0, 0, 0.15);
@@ -17,7 +15,7 @@ $default-color: #666;
   cursor: pointer;
   text-transform: uppercase;
   font-family: $description-font-family;
-  
+  outline: none;
 }
 
 *,
@@ -61,7 +59,6 @@ body {
     background-image: -webkit-linear-gradient(45deg, #d1d1d1 0%, #404140 100%);    
     background-image: linear-gradient(45deg, #d1d1d1 0%, #404140 100%);
     transition: 1s;
-    
 
     &:hover{
       -webkit-transform: rotate(10deg);
@@ -160,7 +157,7 @@ body {
   display: flex;
   flex-direction: row;
   justify-content: center;
-  font-family: $sw-font-family;
+  font-family: $description-font-family;
   margin: 2%;
 
   & a {
