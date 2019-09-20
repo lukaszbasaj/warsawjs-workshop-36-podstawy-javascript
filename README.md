@@ -20,7 +20,7 @@ Użyj metod manipulowania elementami DOM, aby wypisać dowolny tekst w sekcji
 
 Za pomocą poznanych metod dostępu i pracy z elementami DOM stwórz szachownicę.
 Szachownica powinna znaleźć się w kontenerze posiadającym klasę `chessboard`.
-
+Kontener `chessboard` powinien być dzieckiem `main`.
 
 ![chessboard](/assets/chessboard.png)
 
@@ -30,5 +30,7 @@ Szachownica powinna znaleźć się w kontenerze posiadającym klasę `chessboard
 - Ćwiczenie 3
 
 Za pomocą poznanych metod dostępu i pracy z elementami DOM stwórz licznik odliczający czas pozostały do końca roku.
+Licznik powinien znajdować się w kontenerze `countdown`. 
+
 
 ![counter](/assets/counter.png)
