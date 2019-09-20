@@ -5,7 +5,7 @@
 
 Przełącz się na branch `01-introduction`. 
 
-W pliku index.html napisz pierwszy skrypt logo:
+W pliku index.html napisz pierwszy skrypt:
 
 alert("Wow! podoba mi się programowanie w JS 😀");
 lub
