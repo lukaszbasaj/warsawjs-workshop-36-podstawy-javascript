@@ -1,7 +1,7 @@
 **WarsawJS Workshop #36 - wprowadzenie do JavaScript**
 > Typy, zmienne, operatory
 
-Przełącz się na branch `02-types-variablles-operators`
+Przełącz się na branch `02-types-variables-operators`
 
 - Ćwiczenie 1:
 
