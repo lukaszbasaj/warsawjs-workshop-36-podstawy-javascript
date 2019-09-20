@@ -37,6 +37,7 @@
   width: 440px;
   height: 440px;
   display: grid;
+  transform: translateY(10vh);
   grid-template-columns: repeat(8, 1fr);
   box-shadow: 10px 20px 20px 4px rgb(131, 131, 131)
 }
