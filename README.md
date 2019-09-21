@@ -94,7 +94,7 @@ for (let i = 0; i < 3; i++) {
 
 - Ćwiczenie 8 
 
-Używając pętli `for` lub `for..of` przypisz imię dla każdego zwierzęcia
+Używając pętli `for..of` przypisz imię dla każdego zwierzęcia
 ```
 let animals = ['🐔', '🐷', '🐑', '🐇'];
 let names = ['Gertrude', 'Henry', 'Melvin', 'Billy Bob'];
