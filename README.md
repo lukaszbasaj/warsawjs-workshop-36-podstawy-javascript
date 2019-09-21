@@ -35,7 +35,9 @@ Gdzie pod zmienne podstaw odpowiednie dane.
 - Ćwiczenie 3
 Mając tablicę z nazwami kontynentów, posortuj ją alfabetycznie, a następnie odwróć kolejność jej elementów.
 
- `const kontynenty = [’Europa’, ’Azja’, ’Antarktyda’, ’Afryka’, ’Australia i Oceania’, ’Ameryka Północna’, ’Ameryka Południowa’];`
+ `const kontynenty = [ 'Europa', 'Azja', 'Antarktyda', 'Afryka', 'Australia i Oceania', 'Ameryka Północna', 'Ameryka Południowa' ]`
+ 
+ Dodaj na końcu tablicy `Nowy Nieodkryty Kontynent` i usuń z tablicy element `Antarktyda`.
  
  ---
 
@@ -46,3 +48,4 @@ Dołącz „Rock-n-Roll” na końcu.
 Zamień wartość w środku na „Classics”.  
 Zdejmij pierwszą wartość tablicy i pokaż ją. 
 Dodaj Rap i Reggae do tablicy.
+Zamień Rap na Metal.
