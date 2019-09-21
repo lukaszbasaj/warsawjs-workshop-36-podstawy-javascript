@@ -41,15 +41,15 @@ Agenda:
 - fetching data
 
 
-_Prerequisites_
+__Prerequisites__
   - Installed git (version >= 2.x.x)
   - Installed node.js (version >= 10.x.x).
   - Installed npm (version >= 6.x.x)
 
-_Preparation_
+__Preparation__
   - Fork this repository on GitHub. (https://help.github.com/en/articles/fork-a-repo)
    - Clone your fork of the repository. (https://help.github.com/en/articles/cloning-a-repository)
   - Smile 😀
 
-_Workshop_
+__Workshop__
   During workshop we will solve the tasks contained in the individual branches of this repository
