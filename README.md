@@ -47,8 +47,8 @@ __Prerequisites__
   - Installed npm (version >= 6.x.x)
 
 __Preparation__
-   - Fork this repository on GitHub. [How to fork a repo on GitHub?] (https://help.github.com/en/articles/fork-a-repo)
-   - Clone your fork of the repository.[How to clone a repo from GitHub?] (https://help.github.com/en/articles/cloning-a-repository)
+   - Fork this repository on GitHub. (https://help.github.com/en/articles/fork-a-repo)
+   - Clone your fork of the repository.(https://help.github.com/en/articles/cloning-a-repository)
    - Smile 😀
 
 __Workshop__
