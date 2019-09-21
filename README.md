@@ -21,6 +21,7 @@ Użyj metod manipulowania elementami DOM, aby wypisać dowolny tekst w sekcji
 Za pomocą poznanych metod dostępu i pracy z elementami DOM stwórz szachownicę.
 Szachownica powinna znaleźć się w kontenerze posiadającym klasę `chessboard`.
 Kontener `chessboard` powinien być dzieckiem `main`.
+Do wygenerowania elementów `div` będących polami szachownicy wykorzystaj pętlę `for`
 
 ![chessboard](/assets/chessboard.png)
 
