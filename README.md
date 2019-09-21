@@ -20,12 +20,14 @@ W tym zadaniu zakładamy, że dane wejściowe są zawsze liczbą.
 
 Przepisz poniższą instrukcję warunkową używając operatora `?`.
 ```
+let a = 1;
+let b = 2;
 let result;
 
 if (a + b < 4) {
-  result = 'Below';
+  result = 'Za mało';
 } else {
-  result = 'Over';
+  result = 'Za dużo';
 }
 ```
 
