@@ -10,8 +10,6 @@ Wpisz w terminalu polecenie `npm install`
 
 - Ćwiczenie 2
 
-W pliku /src/scripts/App.js
-
 - stwórz funkcję, która zbuduje drzewo DOM 
 
 - stwórz funkcję, która spowoduje utworzenie elementu `button`
