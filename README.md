@@ -18,7 +18,16 @@ W tym zadaniu zakładamy, że dane wejściowe są zawsze liczbą.
 
 - Ćwiczenie 2
 
-Przepisz Ćwiczenie1 używając operatora warunkowego `?`.
+Przepisz poniższą instrukcję warunkową używając operatora `?`.
+```
+let result;
+
+if (a + b < 4) {
+  result = 'Below';
+} else {
+  result = 'Over';
+}
+```
 
 ---
 
