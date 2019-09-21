@@ -2,7 +2,7 @@
 
 ![logo](/public/logo.svg)
 
-Agenda:
+__Agenda:__
 
 - JavaScript syntax
 
