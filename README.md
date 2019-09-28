@@ -63,7 +63,7 @@ if (a == 2 || a == 3) {
 
 - Ćwiczenie 5
 
-Za pomocą pętli wypisz w konsoli tekst
+Za pomocą pętli `for` wypisz w konsoli tekst
 `******`
 
 Gwiazdki powinny być w jednej linii. Skorzystaj tutaj z dodatkowej zmiennej, np. `let string`.
@@ -73,7 +73,7 @@ Gwiazdki powinny być w jednej linii. Skorzystaj tutaj z dodatkowej zmiennej, np
 
 - Ćwiczenie 6
 
-Za pomocą pętli wypisz w konsoli tekst
+Za pomocą pętli `for` wypisz w konsoli tekst
 `12345678910`
 
 
