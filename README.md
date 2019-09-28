@@ -1,6 +1,6 @@
 [https://js-sandbox.basaj.dev/manual/](https://js-sandbox.basaj.dev/manual/)
 
-[https://github.com/lukaszbasaj/manual-introduction-to-JS](https://github.com/lukaszbasaj/manual-introduction-to-JS)
+[https://github.com/lukaszbasaj/manual-wprowadzenie-do-JavaScript](https://github.com/lukaszbasaj/manual-wprowadzenie-do-JavaScript)
 
 # WarsawJS Workshop #36 - Introduction to JavaScript
 
