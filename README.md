@@ -22,4 +22,5 @@ W pliku /src/scripts/App.js
   
  
 
-demo: <https://js-sandbox.basaj.dev/project-02/>
+
+> demo: <https://js-sandbox.basaj.dev/project-02/>
