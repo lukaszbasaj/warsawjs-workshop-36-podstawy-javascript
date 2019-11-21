@@ -32,3 +32,5 @@ Szachownica powinna znaleźć się w kontenerze posiadającym klasę `chessboard
 Za pomocą poznanych metod dostępu i pracy z elementami DOM stwórz licznik odliczający czas pozostały do końca roku.
 
 ![counter](/assets/counter.png)
+
+demo : <https://js-sandbox.basaj.dev/project-01/>
