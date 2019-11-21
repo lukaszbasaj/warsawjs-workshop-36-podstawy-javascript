@@ -33,4 +33,4 @@ Za pomocą poznanych metod dostępu i pracy z elementami DOM stwórz licznik odl
 
 ![counter](/assets/counter.png)
 
-demo : <https://js-sandbox.basaj.dev/project-01/>
+>demo : <https://js-sandbox.basaj.dev/project-01/>
