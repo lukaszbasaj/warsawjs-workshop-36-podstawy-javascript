@@ -20,4 +20,4 @@ Dodaj funkcję, która za pomocą fetch API ściągnie dane z https://swapi.co/a
 
 
 
-demo: <https://js-sandbox.basaj.dev/>
+> demo: <https://js-sandbox.basaj.dev/>
