@@ -19,3 +19,7 @@ W pliku /src/scripts/App.js
 - stwórz funkcję, dzięki której będzie możliwe korzystanie z nowoutworzonego buttona. Dzięki tej funkcji:
   - będziemy mogli zmieniać wartość napisu na przycisku 
   - oraz będziemy mogli włączać i wyłączać dźwięk
+  
+  
+  
+  > demo: https://js-sandbox.basaj.dev/project-02/
