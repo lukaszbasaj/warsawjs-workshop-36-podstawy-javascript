@@ -17,3 +17,7 @@ Struktura html, powinna mieć postać:
 - Ćwiczenie 2
 
 Dodaj funkcję, która za pomocą fetch API ściągnie dane z https://swapi.co/api/films/ i przekaże wartości `{title}` i `{opening_crawl}` do struktury utworzonej powyżej.
+
+
+
+demo: <https://js-sandbox.basaj.dev/>
