@@ -1,7 +1,7 @@
 const params = {
     method: "GET",
 };
-const url = "https://swapi.co/api/films/";
+const url = "https://swapi.dev/api/films/";
 
 export function fetchMovies() {
     return fetch(url, params)
